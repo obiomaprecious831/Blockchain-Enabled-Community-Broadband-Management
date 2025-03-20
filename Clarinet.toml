@@ -10,6 +10,11 @@ path = 'contracts/cost-sharing.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.infrastructure-registration]
+path = 'contracts/infrastructure-registration.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.usage-monitoring]
 path = 'contracts/usage-monitoring.clar'
 clarity_version = 2

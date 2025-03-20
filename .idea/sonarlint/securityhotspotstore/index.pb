@@ -9,3 +9,7 @@ K
 contracts/cost-sharing.clar,9/3/93e0fd9474f0c79832dadc1e411d9946e40df4c1
 J
 tests/cost-sharing.test.ts,c/f/cfb566071438e147be3db7a3a917ce4c7acb7a26
+Z
+*contracts/infrastructure-registration.clar,5/b/5b9754262edcb690d4a4868031e0e3d587fd0481
+Y
+)tests/infrastructure-registration.test.ts,3/c/3cd33d4bf820ecb295cabadc4f2b44ff00be47f2
